@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="202px" height="50px" viewBox="0 0 202 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>ShopNowButtnW/Active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ShopNowButtnW/Active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3">
+            <rect id="Rectangle" fill="#FF3F00" x="0" y="0" width="200" height="50" rx="25"></rect>
+            <text id="zum-Einkaufen" font-family="Montserrat-ExtraBold, Montserrat" font-size="15" font-weight="600" letter-spacing="0.42" fill="#FFFFFF">
+                <tspan x="32.3475" y="31">ZUM EINKAUFEN</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
